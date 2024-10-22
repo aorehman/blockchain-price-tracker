@@ -19,7 +19,7 @@ Ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone git@github.com:your-username/repository.git
+git clone git@github.com:aorehman/blockchain-price-tracker.git
 cd repository
 ```
 
